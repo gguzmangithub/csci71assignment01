@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String args[]) {
 	// write your code here
+    // print out a line - > Hello, concatenated with an argument that is being passed to the program
        System.out.println("Hello, "+args[0]+"!");
       ///  System.out.println("Hello, !");
     }
