@@ -1,2 +1,2 @@
 # csci71assignment01
-Assignment 1 CSCI 70
+Assignment 1  for CSCI 70
